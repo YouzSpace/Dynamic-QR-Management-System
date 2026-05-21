@@ -1,0 +1,31 @@
+# 运行时数据
+data/settings.json
+data/logs.txt
+data/history.json
+
+# 上传文件
+uploads/
+
+# 用户上传的封面图
+share.jpg
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# WorkBuddy
+.workbuddy/
+
+# Playwright 测试缓存
+.playwright-cli/
+
+# 开发文档（不提交）
+开发文档.md
